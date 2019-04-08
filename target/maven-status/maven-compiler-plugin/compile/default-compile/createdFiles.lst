@@ -1,0 +1,12 @@
+com\debu\techtalk\app\entity\Customer.class
+com\debu\techtalk\app\configuration\SwaggerConfiguration.class
+com\debu\techtalk\app\controller\PDFController.class
+com\debu\techtalk\app\configuration\BasicAuthenticationPoint.class
+com\debu\techtalk\app\repository\CustomerRepository.class
+com\debu\techtalk\app\service\CustomerService.class
+com\debu\techtalk\app\Application.class
+com\debu\techtalk\app\controller\CustomerController.class
+com\debu\techtalk\app\util\JacksonUtils.class
+com\debu\techtalk\app\entity\Customer$CustomerGender.class
+com\debu\techtalk\app\controller\CustomerControllerAdvice.class
+com\debu\techtalk\app\configuration\SecurityConfiguration.class
